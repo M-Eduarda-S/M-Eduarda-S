@@ -1,5 +1,5 @@
 - 👩🏻‍🎓 Oi, eu sou a Maria Eduarda!
-- 💻 Estudante de Ciência da Computação na Univali (3º semestre)
+- 💻 Cursando Ciência da Computação (3º semestre)
 - 📚 Linguagens aprendidas: C++, Python
 - 📝 Linguagens que estou apredendo: Java
 
